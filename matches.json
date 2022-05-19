@@ -1,1 +1,19 @@
-
+[
+  {
+    "descricao": "Eliminatórias da Copa do Mundo FIFA 2022",
+    "local": {
+    "nome": "Cícero Pompeu de Toledo",
+    "imagem": "TODO"
+    },
+    "mandante" {
+    "nome": "Brasil",
+    "qualidade": 5,
+    "imagem": "TODO"
+    },
+  "visitante" {
+    "nome": "Argentina",
+    "qualidade": 4,
+    "imagem": "TODO"
+    }
+  }
+]
