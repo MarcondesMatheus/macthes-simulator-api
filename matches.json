@@ -2,18 +2,18 @@
   {
     "descricao": "Eliminatórias da Copa do Mundo FIFA 2022",
     "local": {
-    "nome": "Cícero Pompeu de Toledo",
-    "imagem": "TODO"
+      "nome": "Cícero Pompeu de Toledo",
+      "imagem": "TODO"
     },
     "mandante": {
-    "nome": "Brasil",
-    "qualidade": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "nome": "Brasil",
+      "qualidade": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
-  "visitante": {
-    "nome": "Argentina",
-    "qualidade": 4,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    "visitante": {
+      "nome": "Argentina",
+      "qualidade": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   }
 ]
